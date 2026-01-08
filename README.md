@@ -1,15 +1,56 @@
-# Hi, I'm Marwan (mf4z) 👋
+# Hi, I'm Marwan 👋
 
-**Full-Stack & Cloud Engineer** (Paris), I build practical, scalable web apps and cloud systems.
+Backend Engineer with a strong Python core, focused on building and operating
+production-grade backend systems.
 
-- 🔧 Current: **Landlord** (multi-tenant hospitality SaaS) : Node/React/Postgres + AWS (ECS, RDS, S3), Terraform, CI/CD
-- 📈 Impact: +20% observability at Moody’s Analytics (Rails/Python/Databricks), 50K+ downloads on Fulfulde App
-- ☁️ Cloud/DevOps: AWS, Docker, GitHub Actions, IaC, monitoring/telemetry
-- 💡 Interests: Green IT & sustainable cloud
+I work on APIs, data pipelines, and internal platforms that help teams understand,
+debug, and operate complex systems more reliably.
 
-**Tech**: Rails · Flask · Node/Express · React · PostgreSQL · MongoDB · Terraform · Docker
+My experience spans fintech, government platforms, and SaaS environments, with hands-on exposure to cloud
+infrastructure and production operations.
 
-🌐 Brand: https://mf4z.com  
-🧑‍💻 Portfolio: https://marwanmai.com  
-💼 LinkedIn: https://www.linkedin.com/in/marwan-mai/  
-📬 Contact: emef4z@gmail.com
+---
+
+## 🔧 Technical Focus
+
+- **Backend:** Python, Django, Flask, REST APIs
+- **Data & Observability:** Data pipelines, telemetry processing, Databricks, monitoring
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud:** AWS (EC2, S3, CloudWatch), Docker
+- **Other:** Node.js, Laravel, Ruby on Rails
+
+---
+
+## 🚀 Selected Projects
+
+### Trivia API
+REST API built with **Python (Flask)** and PostgreSQL, containerized with Docker.  
+Focused on clean API design and production-ready structure.
+
+### Fulfulde Language App
+Android application with **50K+ downloads**, backed by a Python(Flask) API.  
+Worked on backend services, data handling, and production support.
+
+### NaijaFR Store
+Fullstack e-commerce platform built with **React, Node.js, and MongoDB**, including
+authentication, product management, and order workflows.
+
+### Landlord (Work in Progress)
+Multi-tenant hospitality management platform exploring booking and operations
+workflows. Built with **Node.js, React, PostgreSQL**, and AWS services as part of
+ongoing learning around cloud-based architectures.
+
+---
+
+## 🌱 Currently
+
+- Deepening backend and cloud experience (Python + AWS)
+- Interested in reliability, observability, and backend-driven system design
+
+---
+
+## 📫 Get in Touch
+
+- Portfolio: https://marwanmai.com  
+- LinkedIn: https://linkedin.com/in/marwan-mai
+- Email: emef4z@gmail.com
