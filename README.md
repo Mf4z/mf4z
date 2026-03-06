@@ -1,56 +1,44 @@
 # Hi, I'm Marwan 👋
 
-Backend Engineer with a strong Python core, focused on building and operating
-production-grade backend systems.
+Backend Engineer based in Paris, with a strong Python and Node.js core. I build production-grade APIs, data pipelines, and multi-tenant platforms — with a focus on reliability, observability, and shipping systems that hold up under real-world constraints.
 
-I work on APIs, data pipelines, and internal platforms that help teams understand,
-debug, and operate complex systems more reliably.
-
-My experience spans fintech, government platforms, and SaaS environments, with hands-on exposure to cloud
-infrastructure and production operations.
+My background spans fintech, government platforms, and SaaS, with hands-on exposure to cloud infrastructure, PostgreSQL at scale, and production operations.
 
 ---
 
 ## 🔧 Technical Focus
 
-- **Backend:** Python, Django, Flask, REST APIs
-- **Data & Observability:** Data pipelines, telemetry processing, Databricks, monitoring
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud:** AWS (EC2, S3, CloudWatch), Docker
-- **Other:** Node.js, Laravel, Ruby on Rails
+- **Backend:** Python, Node.js, FastAPI, Django, Flask, Laravel, Ruby on Rails
+- **Databases:** PostgreSQL (modelling, query optimisation, indexing), MySQL, MongoDB
+- **Cloud & DevOps:** AWS (ECS, RDS, S3, Lambda, CloudWatch, EventBridge), Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD
+- **Data & Observability:** ETL pipelines, Databricks, telemetry processing, SQL optimisation, monitoring & alerting
+- **Frontend:** React, Next.js, Vue.js, Tailwind CSS
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
-### Trivia API
-REST API built with **Python (Flask)** and PostgreSQL, containerized with Docker.  
-Focused on clean API design and production-ready structure.
+### [Lenal — Logistics Dispatch Platform](https://github.com/Mf4z) *(Active)*
+Production logistics backend built with FastAPI, SQLAlchemy, PostgreSQL, and Docker. Multi-tenant architecture with role-based access, full delivery lifecycle management, event sourcing for audit trails, and JWT/phone-based auth. Designed offline-first (USSD/SMS) for the Kaduna, Nigeria market — real businesses committed to beta testing.
 
-### Fulfulde Language App
-Android application with **50K+ downloads**, backed by a Python(Flask) API.  
-Worked on backend services, data handling, and production support.
+### [Fulfulde Language App](https://play.google.com/store/apps/details?id=com.fulfulde)
+Android app with a Python (Flask) backend serving localised content for Fulfulde speakers. 50K+ downloads on the Play Store. Maintained 99.9% API uptime via caching, monitoring, and alerting.
 
-### NaijaFR Store
-Fullstack e-commerce platform built with **React, Node.js, and MongoDB**, including
-authentication, product management, and order workflows.
-
-### Landlord (Work in Progress)
-Multi-tenant hospitality management platform exploring booking and operations
-workflows. Built with **Node.js, React, PostgreSQL**, and AWS services as part of
-ongoing learning around cloud-based architectures.
+### [NaijaFR Store](https://github.com/Mf4z/NaijaFR)
+Fullstack e-commerce platform built with React, Node.js, and MongoDB — authentication, product management, order workflows, and PayPal integration.
 
 ---
 
 ## 🌱 Currently
 
-- Deepening backend and cloud experience (Python + AWS)
-- Interested in reliability, observability, and backend-driven system design
+- Building **Lenal** — a production logistics platform with real clients waiting on beta
+- **Kubernetes KCNA** — Andela African Developer Program (March 2026)
+- **AWS Solutions Architect – Associate** (in progress)
 
 ---
 
 ## 📫 Get in Touch
 
-- Portfolio: https://marwanmai.com  
-- LinkedIn: https://linkedin.com/in/marwan-mai
-- Email: emef4z@gmail.com
+- 🌐 Portfolio: [marwanmai.com](https://marwanmai.com)
+- 💼 LinkedIn: [linkedin.com/in/marwan-mai](https://linkedin.com/in/marwan-mai)
+- 📧 Email: emef4z@gmail.com
