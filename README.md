@@ -45,4 +45,5 @@ Fullstack e-commerce platform built with React, Node.js, and MongoDB: authentica
 
 - 🌐 Portfolio: [marwanmai.com](https://marwanmai.com/)
 - 💼 LinkedIn: [linkedin.com/in/marwan-mai](https://linkedin.com/in/marwan-mai)
+- 🛠️ Freelance: [Binary IT Solutions](https://binarysoln.com)
 - 📧 Email: [emef4z@gmail.com](mailto:emef4z@gmail.com)
