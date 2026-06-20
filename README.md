@@ -25,7 +25,7 @@ Production logistics backend built with FastAPI, SQLAlchemy, PostgreSQL, and Doc
 **DocuMentor — AI Document Intelligence Platform** (EPITA MSc Thesis, Co-Founder)
 Co-founded and built a Retrieval-Augmented Generation (RAG) pipeline from ideation through delivery: PDF parsing and chunking, OpenAI embeddings, Pinecone vector search, and GPT-3.5 for context-aware answers with streamed responses.
 
-**[Eventure — Event Management Platform](https://github.com/Mf4z/Eventure)** (EPITA Group Project)
+**[Eventure — Event Management Platform](https://github.com/Mf4z/Eventure)**
 Built RESTful APIs in Java Spring Boot for event and participant management, within a polyglot backend (Spring Boot + Node.js) routed through a shared API gateway, with OpenID Connect authentication.
 
 **[Fulfulde Language App](https://play.google.com/store/apps/details?id=com.fulfulde)** (Founder, 2020 – Present)
